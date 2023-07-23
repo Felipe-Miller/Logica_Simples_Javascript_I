@@ -1,5 +1,5 @@
-function mostraResultado(mensagem) {
-    document.write(mensagem + "<br>");
+function mostraResultado(resultado) {
+    document.write(resultado + "<br>");
 }
 
 let quantidade = parseInt(prompt("Digite a quantidade de maças compradas:"));
